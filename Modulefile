@@ -1,0 +1,8 @@
+name            'h0tbird-mysql'
+version         '0.0.1'
+source          'https://github.com/h0tbird/puppet-mysql'
+author          'Marc Villacorta'
+license         'GPL'
+summary         'Empty Module'
+description     'Manages the MySQL service.'
+project_page    'https://github.com/h0tbird/puppet-mysql'
